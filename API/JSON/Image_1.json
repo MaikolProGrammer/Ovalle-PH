@@ -1,0 +1,9 @@
+{
+    "id":1,
+    "name":"Image 1",
+    "url":"https://maikolprogrammer.github.io/Ovalle-PH/API/media/Image_1.JPG",
+    "description":"Foto de un campo en Boyacá, Colombia.",
+    "category":"Image",
+    "tags":["Image","Image 1","First Image"],
+    "author":"Maikol Ovalle"
+}
